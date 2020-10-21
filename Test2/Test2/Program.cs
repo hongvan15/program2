@@ -7,6 +7,7 @@ namespace Test2
         static void Main(string[] args)
         {
             Console.Write("hihii");
+            Console.Write("cường đin");
             Console.WriteLine();
         }
     }
